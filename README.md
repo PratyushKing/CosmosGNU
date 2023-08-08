@@ -1,3 +1,4 @@
+![CosmosGNU](/gitpics/logobitch.png#gh-dark-mode-only)
 # CosmosGNU
 **A project made for replicating GNU functionality for Cosmos.**
 ### We are planning to implement following features:
