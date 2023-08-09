@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SystemX\\source\\repos\\CosmosGNU\\CosmosGNU\\CosmosGNU.csproj": {}
+    "C:\\Users\\praty\\OneDrive\\Documents\\CosmosGNU\\CosmosGNU\\CosmosGNU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SystemX\\source\\repos\\CosmosGNU\\CosmosGNU\\CosmosGNU.csproj": {
+    "C:\\Users\\praty\\OneDrive\\Documents\\CosmosGNU\\CosmosGNU\\CosmosGNU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SystemX\\source\\repos\\CosmosGNU\\CosmosGNU\\CosmosGNU.csproj",
+        "projectUniqueName": "C:\\Users\\praty\\OneDrive\\Documents\\CosmosGNU\\CosmosGNU\\CosmosGNU.csproj",
         "projectName": "CosmosGNU",
-        "projectPath": "C:\\Users\\SystemX\\source\\repos\\CosmosGNU\\CosmosGNU\\CosmosGNU.csproj",
-        "packagesPath": "C:\\Users\\SystemX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SystemX\\source\\repos\\CosmosGNU\\CosmosGNU\\obj\\",
+        "projectPath": "C:\\Users\\praty\\OneDrive\\Documents\\CosmosGNU\\CosmosGNU\\CosmosGNU.csproj",
+        "packagesPath": "C:\\Users\\praty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\praty\\OneDrive\\Documents\\CosmosGNU\\CosmosGNU\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SystemX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\praty\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\SystemX\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+          "C:\\Users\\praty\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

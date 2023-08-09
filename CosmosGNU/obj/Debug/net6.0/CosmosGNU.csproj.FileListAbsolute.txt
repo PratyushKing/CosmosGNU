@@ -10,3 +10,15 @@ C:\Users\SystemX\source\repos\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.dll
 C:\Users\SystemX\source\repos\CosmosGNU\CosmosGNU\obj\Debug\net6.0\refint\CosmosGNU.dll
 C:\Users\SystemX\source\repos\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.pdb
 C:\Users\SystemX\source\repos\CosmosGNU\CosmosGNU\obj\Debug\net6.0\ref\CosmosGNU.dll
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\bin\Debug\net6.0\CosmosGNU.deps.json
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\bin\Debug\net6.0\CosmosGNU.dll
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\bin\Debug\net6.0\CosmosGNU.pdb
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.csproj.AssemblyReference.cache
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.AssemblyInfoInputs.cache
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.AssemblyInfo.cs
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.csproj.CoreCompileInputs.cache
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.dll
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\refint\CosmosGNU.dll
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\CosmosGNU.pdb
+C:\Users\praty\OneDrive\Documents\CosmosGNU\CosmosGNU\obj\Debug\net6.0\ref\CosmosGNU.dll
