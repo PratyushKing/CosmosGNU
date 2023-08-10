@@ -14,8 +14,7 @@ namespace CosmosGNU
         {
             try
             {
-                FS = new();
-                Sys.FileSystem.VFS.VFSManager.RegisterVFS(FS);
+                FS = InitializeVFS();
                 Log.Success("VFS successfully registered!");
             }
             catch (Exception ex)
@@ -27,7 +26,7 @@ namespace CosmosGNU
         protected override void Run()
         {
             Console.WriteLine("Welcome to the " + OSName + " version " + OSVersion);
-            ConsoleEngine.ConsoleEngine.Run();
+            ConsoleEngine.Engine.Run();
         }
     }
 }
